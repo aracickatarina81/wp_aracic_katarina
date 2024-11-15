@@ -1,0 +1,27 @@
+/* univerzalni selektor */
+*{ font-family: "Montserrat", sans-serif;}
+
+/* element selektori */
+h3 {color: darkslateblue; background-color: #470b19;}
+
+h4 {color: #470b19;}
+
+p {font-weight: 100;
+    font-size: 2rem}
+
+div {width: 400px; height: 400px; background-color: aqua; text-align: center; }
+
+/* selektor klase */
+.naslov {color:rgb(179, 23, 23)}
+
+.rgb {color: rgb(15, 122, 82);}
+
+.amet {color: #470b19; background-color: aquamarine;}
+
+/* selektor id */
+#naslov1 {color: lightgreen;}
+
+body {background-color: rgb(133, 102, 57);}
+
+
+
